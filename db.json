@@ -1,4 +1,31 @@
 {
-  "name": "vijay",
-  "org": "hcl"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hcl"
+    },
+    {
+      "id": 2,
+      "title": "tech"
+    },
+    {
+      "id": 3,
+      "title": "nologies"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "HCL",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "TECH",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "EPL"
+  }
 }
